@@ -5,9 +5,40 @@
     <description>A blog about programming, reverse engineering, and possible tech solutions.</description>
     <link>http://p1st4ch0.github.io/</link>
     <atom:link href="http://p1st4ch0.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 11 Jul 2014 01:04:00 +0200</pubDate>
-    <lastBuildDate>Fri, 11 Jul 2014 01:04:00 +0200</lastBuildDate>
+    <pubDate>Fri, 11 Jul 2014 01:18:12 +0200</pubDate>
+    <lastBuildDate>Fri, 11 Jul 2014 01:18:12 +0200</lastBuildDate>
     <generator>Jekyll v2.1.0</generator>
+    
+      <item>
+        <title>Pilot</title>
+        <description>
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-c&quot; data-lang=&quot;c&quot;&gt;&lt;span class=&quot;cp&quot;&gt;#My first program in C language&lt;/span&gt;
+
+&lt;span class=&quot;cp&quot;&gt;#include &amp;lt;stdio.h&amp;gt; &lt;/span&gt;
+
+&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;){&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;Hello World&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;#&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;--&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Thanks&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Dennis&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Ritchie&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;!!!&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;I’m totally disappointed with the media that talks only about rich developers only to sponsor 
+them and their products, avoid to spend two words about a great man who change computer 
+history, and the way we develop programs. It was Dennis Ritchie, chapeau!&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 11 Jul 2014 01:30:00 +0200</pubDate>
+        <link>http://p1st4ch0.github.io/first/steps/2014/07/11/pilot/</link>
+        <guid isPermaLink="true">http://p1st4ch0.github.io/first/steps/2014/07/11/pilot/</guid>
+        
+        
+        <category>first</category>
+        
+        <category>steps</category>
+        
+      </item>
     
   </channel>
 </rss>

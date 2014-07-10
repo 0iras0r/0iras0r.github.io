@@ -10,3 +10,5 @@ github_username:  p1st4ch0
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+excerpt_separator: ""
