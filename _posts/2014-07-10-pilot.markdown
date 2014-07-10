@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Pilot"
+date:   2014-07-10 00.00.00
+categories: first steps
+---
+
+{% highlight ruby %}
+/*My first program in C language*/
+
+#include <stdio.h> 
+
+int main(void){
+
+printf("Hello World")
+
+return 0;
+
+} /*<--Thanks Dennis Ritchie!!!*/
+{% endhighlight %}
+
+I'm totally disappointed with the media that talks only about rich developers only to sponsor 
+them and their products, avoid to spend two words about a great man who change computer 
+history, and the way we develop programs. It was Dennis Ritchie, chapeau!
+
+
