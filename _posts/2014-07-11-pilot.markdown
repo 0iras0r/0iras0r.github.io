@@ -6,7 +6,8 @@ categories: first steps
 ---
 
 {% highlight c %}
-#My first program in C language
+
+/*My first program in C language*/
 
 #include <stdio.h> 
 
@@ -16,11 +17,13 @@ printf("Hello World")
 
 return 0;
 
-} #<--Thanks Dennis Ritchie!!!
+} /*<--Thanks Dennis Ritchie!!!*/
+
 {% endhighlight %}
 
 I'm totally disappointed with the media that talks only about rich developers only to sponsor 
 them and their products, avoid to spend two words about a great man who change computer 
 history, and the way we develop programs. It was Dennis Ritchie, chapeau!
+
 
 
